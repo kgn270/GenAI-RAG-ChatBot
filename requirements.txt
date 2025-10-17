@@ -1,0 +1,14 @@
+langchain==0.0.262
+faiss-cpu==1.8.0
+openai==0.28
+pypdf 
+streamlit==1.37.1
+beautifulsoup4 
+requests
+tiktoken
+
+# export GCP_PROJECT='dnn-census'
+# export GCP_REGION='us-central1'
+# export AR_REPO='genai-rag-app-repo'
+# export SERVICE_NAME='genai-rag-app' 
+
